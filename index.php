@@ -1,3 +1,10 @@
+<?php
+
+$name = "Lori";
+$location = "Fort Collins";
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +14,8 @@
   <section class="main">
     <p>PHP</p>
     <p><?php echo "Hello, World!" ?></p>
+    <p><?php echo $name ?></p>
+    <p><?php echo $location ?></p>
   </section>
 </body>
 </html>
