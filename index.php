@@ -19,3 +19,4 @@ $location = "Fort Collins";
   </section>
 </body>
 </html>
+<!-- PHP course from Treehouse -->
