@@ -2,8 +2,11 @@
 
 $name = "Lori";
 $location = "Fort Collins";
+$full_name = "Lori Nitzel";
+$name = $full_name;
 
 ?>
+
 
 <!DOCTYPE html>
 <html>
